@@ -1,1 +1,4 @@
-trustedanalytics.ae
+Name: www
+Type: CNAME
+Value: media2958.github.io
+TTL: Auto / Default
